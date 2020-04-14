@@ -1,5 +1,3 @@
-# Cool and New 1C Task Solution!
+# Coffee Shot Management system
 
-My solution to a 1C entrance task. And it's fucking amazing.
-
-I have no idea what the task is yet, but I will soon find out!
+Простая система для контроля заказов в кофейне. Две роли: баристы aka кассиры и админы. Админы могут добавлять новых пользователей, а так же получать инфу о всей системе. Кассиры могут пользоваться каталогом кофе и записывать заказы. И считать стоимость. Всё, что в .txt должно бытиь на удалённой базе данных, но этодолго
