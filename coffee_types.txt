@@ -1,0 +1,7 @@
+[
+	["Covfefe", 228],
+	["Latte", 3],
+	["Cappuccino", 4],
+	["Espresso", 5],
+	["Mochaccino", 22]
+]
